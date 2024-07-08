@@ -1,0 +1,30 @@
+.topic{
+    background-color: grey;
+    color: blue;
+    text-align: center;
+    padding: 30px;
+
+}
+.describe{
+    padding: 20px;
+    border:50px;
+    margin: 50px;
+    text-align:left;
+    background-color: blueviolet;
+}
+.ingredients{
+    padding: 20px;
+    border:50px;
+    margin: 50px;
+    text-align:left;
+    background-color: blueviolet;
+    
+
+}
+.instruction{
+    padding: 20px;
+    border:50px;
+    margin: 50px;
+    text-align:left;
+    background-color: blueviolet;
+}
